@@ -2,7 +2,7 @@
 layout: post
 title:  "Post 1"
 date:   2014-06-18 16:20:00
-categories: jekyll update
+categories: 4loop jekyll update
 ---
 
-New post
+THIS IS THE BLOG TEXT
