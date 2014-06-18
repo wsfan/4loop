@@ -1,3 +1,5 @@
 name: 4Loop
+baseurl: "/4loop"
+url: "wsfan.github.io/4loop/"
 markdown: kramdown
 pygments: true
