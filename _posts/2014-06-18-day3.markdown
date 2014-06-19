@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 3"
+date:   2014-06-18 12:02:00
+categories:
+---
+
+Today we vowed to follow the class syllabus and have Jekyll running on our site (like all the other teams). After some false starts, we managed to install Jekyll *and* Bootstrap. However the website was not free from problems as none of our posts appeared and our links did not work.
+
+
