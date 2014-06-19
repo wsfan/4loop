@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-06-18 12:02:00
-categories: jekyll update
+title:  "Post 1"
+date:   2014-06-17 12:02:00
+categories:
+link: http://wsfan.github.io/4loop/2014/06/18/evennewerpost.html
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
