@@ -12,5 +12,6 @@ Piri, Michael, Ross and Wan. For our first project Wan is the project manager, P
 The project this week is to create a blog that will be the e-record for everything 4Loop over the course.
 
 <sub>The Collective herb garden featuring Purple Basil in the center bottom plot</sub>
+
 <img class="garden" src = "https://raw.githubusercontent.com/wsfan/4loop/gh-pages/images/day1garden.jpg" width="678" height="337" />
 
