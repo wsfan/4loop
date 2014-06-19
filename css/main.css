@@ -36,25 +36,16 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 .posts {
   list-style-type: none;
-  margin-bottom: 2em;
-  margin-left: 2em;
-  margin-right: 4em;
-}
 
 .posts li {
-  line-height: 1.75em;
-    margin-bottom: 2em;
-  margin-left: 2em;
-  margin-right: 4em;
+
 }
 
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
-    margin-bottom: 2em;
-  margin-left: 2em;
-  margin-right: 4em;
+   
 }
 
 /*****************************************************************************/
