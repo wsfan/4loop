@@ -38,6 +38,7 @@ a:visited { color: #a0a; }
   list-style-type: none;
   margin-bottom: 2em;
   margin-left: 2em;
+  margin-right: 4em;
 }
 
 .posts li {
