@@ -13,4 +13,4 @@ The project this week is to create a blog that will be the e-record for everythi
 
 <img src="http://i57.tinypic.com/290q5np.jpg">
 
-<img src="https://github.com/wsfan/4loop/images/IMG_20140619_112130466" style="width: 50%; height: 50%"/>​
+<img src="https://github.com/wsfan/4loop/images/IMG_20140619_112130466" style="width: 25%; height: 25%"/>​
