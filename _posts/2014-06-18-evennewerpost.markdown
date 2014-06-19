@@ -10,6 +10,6 @@ Today we were supposed to use <a href="http://jekyllrb.com/">Jekyll</a> to creat
 On our illegitimate website we added APIs from Instagram, Twitter and Google Maps. We plan to integrate Jekyll into our blog tomorrow...
 
 
-<img class="garden" src = "http://i62.tinypic.com/vxl17m.jpg" width="320" height="320" />
+<img src = "http://i62.tinypic.com/vxl17m.jpg" width="320" height="320" />
 
 <i>Coding</i>
