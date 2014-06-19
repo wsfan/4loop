@@ -5,11 +5,10 @@ date:   2014-06-17 12:02:00
 categories:
 ---
 
-Today we were supposed to use <a href="http://jekyllrb.com/">Jekyll</a> to create our blog but we discovered very quickly that Jekyll is not easy to use. In order to present something at our afternoon presentation, we cheated. We created a blog using our collective HTML knowledge and we borrowed an online template.
+Today we were supposed to use <a href="http://jekyllrb.com/">Jekyll</a> to create our blog but we discovered very quickly that it is both hard to install and use. In order to have something to present at the afternoon presentation, we cheated. We created a blog using our collective HTML knowledge and we borrowed an online template.
 
-On our illegitimate website we added APIs from Instagram, Twitter and Google Maps. We plan to integrate Jekyll into our blog tomorrow...
+On our illegitimate website we added APIs from Instagram, Twitter and Google Maps but tomorrow we plan to integrate Jekyll into our blog.
 
+<sub> Writing HTML </sub>
 
 <img src = "http://i62.tinypic.com/vxl17m.jpg" width="320" height="320" />
-
-<i>Coding</i>
