@@ -36,9 +36,6 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 .posts {
   list-style-type: none;
-  margin-bottom: 2em;
-  margin-left: 2em;
-  margin-right: 4em;
 }
 
 .posts li {
@@ -49,6 +46,9 @@ a:visited { color: #a0a; }
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+  margin-bottom: 2em;
+  margin-left: 2em;
+  margin-right: 4em;
 }
 
 /*****************************************************************************/
@@ -145,9 +145,6 @@ a:visited { color: #a0a; }
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
-  margin-bottom: 2em;
-  margin-left: 2em;
-  margin-right: 4em;
 }
 
 .post pre code {
