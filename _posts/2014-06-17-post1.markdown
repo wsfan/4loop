@@ -5,9 +5,9 @@ date:   2014-06-16 12:02:00
 categories:
 ---
 
-We arrived bright-eyed and bushy-tailed to the <a href="http://camdencollective.co.uk/">Collective</a> in Camden, complete with its own herb garden, for the beginning of our Coding course.
+We arrived bright-eyed and bushy-tailed to the <a href="http://camdencollective.co.uk/">Collective</a> in Camden, complete with its own herb garden, for the beginning of our Coding course. All 16 of us were split into teams of 4; our team "4Loop" (that's a Javascript reference) is made up of four guys. 
 
-All 16 of us were split into teams of 4; our team "4Loop" (that's a Javascript reference) is made up of four guys. Piri, Michael, Ross and Wan. For our first project Wan is the project manager, Piri, our tutor, Michael, our journalist and Ross is our presenter/client.
+Piri, Michael, Ross and Wan. For our first project Wan is the project manager, Piri, our tutor, Michael, our journalist and Ross is our presenter/client.
 
 The project this week is to create a blog that will be the e-record for everything 4Loop over the course.
 
