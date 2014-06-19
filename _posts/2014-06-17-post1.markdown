@@ -11,4 +11,4 @@ All 16 of us were split into teams of 4; our team "4Loop" (that's a Javascript r
 
 The project this week is to create a blog that will be the e-record for everything 4Loop over the next 7 weeks.
 
-<img class="garden" src = "https://raw.githubusercontent.com/wsfan/4loop/gh-pages/images/IMG_20140619_112130466.jpg" width="100" height="100" />
+<img class="garden" src = "https://raw.githubusercontent.com/wsfan/4loop/gh-pages/images/IMG_20140619_112130466.jpg" width="972" height="456" />
