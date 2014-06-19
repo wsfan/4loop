@@ -5,13 +5,17 @@ title: Your New Jekyll Site
 
 <div id="home">
 <div align="left">
-  <font size="6">Blog Posts</font>
+  <font size="5">Blog Posts</font>
+  <br>
+    <font size="4">
+
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
         {{ post.excerpt }} Click <a href="{{ post.url | remove_first:'/'}}">here</a> to read more...
         </li>
     {% endfor %}
+    </font>
   </ul>
   </div>
 </div>
