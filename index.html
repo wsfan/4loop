@@ -8,7 +8,7 @@ title: Your New Jekyll Site
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
-        {{ post.excerpt }} Click <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a> to read more...
+        {{ post.excerpt }} Click <a href="{{ post.url | remove_first:'/'}}">here</a> to read more...
         </li>
     {% endfor %}
   </ul>
