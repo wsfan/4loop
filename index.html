@@ -4,10 +4,19 @@ title: Your New Jekyll Site
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+<div align="left">
+  <font size="5">Blog Posts</font>
+  <br>
+  <br>
+    <font size="4">
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></li>
+      <li><span><b>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></b>
+        {{ post.excerpt }}<i>Click <a href="{{ post.url | remove_first:'/'}}">here</a> to read more...</i>
+        </li>
     {% endfor %}
+  </font>
   </ul>
+  </div>
 </div>
+
