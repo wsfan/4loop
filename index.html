@@ -5,7 +5,7 @@ title: Your New Jekyll Site
 
 <div id="home">
 <div align="left">
-  <font size="4">Blog Posts</font>
+  <font size="6">Blog Posts</font>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
