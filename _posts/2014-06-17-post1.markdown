@@ -5,13 +5,13 @@ date:   2014-06-16 12:02:00
 categories:
 ---
 
-<b>We arrived bright-eyed and bushy-tailed to the <a href="http://camdencollective.co.uk/">Collective</a> in Camden for the beginning of our Coding course, complete with its own herb garden!</b>
+<b>We arrived bright-eyed and bushy-tailed to the <a href="http://camdencollective.co.uk/">Collective</a> in Camden, complete with its own herb garden, for the beginning of our Coding course.</b>
 
 All 16 of us were split into teams of 4; our team "4Loop" (that's a Javascript reference) is made up of four guys. Piri, Michael, Ross and Wan. For our first project Wan is the project manager, Piri, our tutor, Michael, our journalist and Ross is our presenter/client.
 
-The project this week is to create a blog that will be the e-record for everything 4Loop over the next 7 weeks.
+The project this week is to create a blog that will be the e-record for everything 4Loop over the course.
 
 
 <img class="garden" src = "https://raw.githubusercontent.com/wsfan/4loop/gh-pages/images/day1garden.jpg" width="778" height="437" />
 
-
+<i> Herb garden featuring purple basil. </i>
