@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Post 1"
-date:   2014-06-17 12:02:00
+title:  "Day 1"
+date:   2014-06-16 12:02:00
 categories:
-link: http://wsfan.github.io/4loop/2014/06/18/evennewerpost.html
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+<h2>We arrived bright-eyed and bushy-tailed to the <a href="http://camdencollective.co.uk/">Collective</a> in Camden for the beginning of our Coding course, complete with its own herb garden!</h2>
 
-Jekyll also offers powerful support for code snippets:
+All 16 of us were split into teams of 4; our team "4Loop" (that's a Javascript reference) is made up of four guys; Piri, Michael, Ross and Wan. For our first project Wan is the project manager, Piri, the tutor, Michael is our journalist and Ross is our presenter/client.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The project this week is to create a blog that will be the e-record for everything 4Loop over the next 7 weeks.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
