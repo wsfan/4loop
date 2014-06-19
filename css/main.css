@@ -138,12 +138,16 @@ a:visited { color: #a0a; }
 
 .post ul, .post ol {
   margin-left: 1.35em;
+  
 }
 
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
+  margin-bottom: 2em;
+  margin-left: 2em;
+  margin-right: 4em;
 }
 
 .post pre code {
