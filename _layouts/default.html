@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width">
 <!-- INSERT FROM BOOTSTRAP -->
 
-        	<link href = "http://wsfan.github.io/4loop/Bootstrap/css/bootstrap.min.css" rel = "stylesheet">
+        <link href = "http://wsfan.github.io/4loop/Bootstrap/css/bootstrap.min.css" rel = "stylesheet">
 		<link href = "http://wsfan.github.io/4loop/Bootstrap/css/styles.css" rel = "stylesheet">
 <!-- INSERT ends  -->
 
@@ -17,7 +17,13 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="http://wsfan.github.io/4loop//css/main.css">
-
+		<style type="text/css"> 
+			<body> {margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			margin-left: 0px;}
+			</body>
+		</style>
     </head>
     
     
@@ -60,28 +66,35 @@
 	<!-- INSERT ENDS -->
 
 <div>
-			<div class="site">
-				<body>
-				<div class="header"> 
-					<h1 class="title"><h1>4Loop Blog (Founders and Coders 2014)</h1>      
-				</body>
-	<table>	
-	<col width="700px">
-    <tr style="vertical-align:top">
-	
-	<td width="80%">
-         <!--Content of the first column.-->
-          {{ content }}
-	</td>
-		<td width="20%"><td bgcolor="#BDBDBD">
-         <!--Content of the second column.-->
-					<h2 class="title"> API</h2>
-			<a class="twitter-timeline" href="https://twitter.com/search?q=%23foundersandcoders" data-widget-id="478897762872733696">Tweets about "#foundersandcoders"</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-         
-		 </td>
-   </tr>
-   </table>
+			
+			<table>			
+				
+				<thead>
+					<tr>
+						<th>
+						<h1 class="title">4Loop Blog (Founders and Coders 2014)</h1>
+						<th>      
+					</tr>
+				</thead>
+				<tbody>
+					<col width="1000">
+					<col width="200">
+					<tr style="vertical-align:top">
+			
+						<td>
+							<!--Content of the first column.-->	
+						<p>{{ content }}</p>
+						</td>
+					<td bgcolor="#BDBDBD">
+							<!--Content of the second column.-->
+							<p><h2 style="class=title"> API</h2></p>
+							<p><a class="twitter-timeline" href="https://twitter.com/search?q=%23foundersandcoders" data-widget-id="478897762872733696">Tweets about "#foundersandcoders"</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+				 
+					</td>
+					</tr>
+				</tbody>
+			</table>
 	<body>	
 	<p>Instagram Feed #foundersandcoders</p>
 	</body>
@@ -100,7 +113,6 @@
 			</div>
           </div>
         </div>
-</div>
 </div>
 
     </body>
