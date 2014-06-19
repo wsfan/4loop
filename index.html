@@ -3,10 +3,11 @@ layout: default
 title: Your New Jekyll Site
 ---
 
-{% for post in paginator.posts %}
-  <div class="postWrapper">
-    <h2><a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></h2>  
-    <div class="postDate">{{ post.date | date:"%B %d, %Y" }}</div>
-    <div class="postContent">{{ post.content }}</div>
-  </div>
-{% endfor %}
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
