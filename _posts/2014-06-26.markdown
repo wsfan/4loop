@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day test
+title:  "Day test"
 date:   2014-06-26 12:02:00
 categories:
 ---
