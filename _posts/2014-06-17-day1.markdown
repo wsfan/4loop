@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 1"
-date:   2014-06-16 12:02:00
+date:   2014-06-17 12:02:00
 categories:
 ---
 
