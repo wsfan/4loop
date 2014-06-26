@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 3"
+date:   2014-06-18 12:02:00
+categories:
+---
+
+After presenting our website yesterday, we agreed that we should have <a href="http://jekyllrb.com/">Jekyll</a> running on our site in order to 'comply' with the class syllabus. After some false starts, we managed to install Jekyll *and* <a href="http://getbootstrap.com/">Bootstrap</a>. However, the website was not free from problems as none of our posts appeared and our links did not work.
+
+In the evening we were very grateful to Greg Tebbutt, the first of our guest speakers, who came to speak about his journey from university to <a href="http://sparrho.com/">Sparro</a> where he currently works. 
+
+<sub> Greg Tebbutt speaking to us </sub>
+
+<img src = "https://pbs.twimg.com/media/BqbSaYLCQAA1PV0.jpg" />
+

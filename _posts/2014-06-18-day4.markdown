@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 4"
+date:   2014-06-19 12:02:00
+categories:
+---
+
+We had a very productive day today with many quantifiable results: we created a landing page and all our blog posts function properly (finally!). We added buttons to our website and introduced a Bootstrap header.
+
+That said, our header drop down function is still not operational but we understand that other groups are suffering from a similar problem.
+
+<sub> Coding, coding, coding.</sub>
+
+<img src = "http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/10467916_1498571493705659_2063005330_n.jpg" />
+

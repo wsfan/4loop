@@ -1,0 +1,3 @@
+Week 2 Day 2 
+
+More researching and frustrated swearing. Eyes began to feel pretty damn sore after the hours of research but by the end of the day we felt like we'd learnt what we needed to do in the following days.

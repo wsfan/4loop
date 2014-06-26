@@ -1,22 +1,98 @@
----
-layout: default
-title: Your New Jekyll Site
----
+<!DOCTYPE html>
+<!-- Default does not override because we dont want twitter insta etc on opening page-->
+<html>
+	<head>
+		<meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title> 4Loop </title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href = "http://wsfan.github.io/4loop/Bootstrap/css/bootstrap.min.css" rel = "stylesheet">
+		
+	</head>
+	<body>
+	
+	<div class = "navbar navbar-inverse navbar-static-top">
+		<div class = "container">
 
-<div id="home">
-<div align="left">
-  <font size="5">Blog Posts</font>
-  <br>
-  <br>
-    <font size="4">
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span><b>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></b>
-        {{ post.excerpt }} Click <a href="{{ post.url | remove_first:'/'}}">here</a> to read more...
-        </li>
-    {% endfor %}
-    </font>
-  </ul>
-  </div>
+			<a href = "http://wsfan.github.io/4loop/" class = "navbar-brand"><img class="logo" src = "https://raw.githubusercontent.com/wsfan/4loop/gh-pages/images/4looplogo.png" width="100" height="30" /></a>
+
+			<button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
+				<span class = "icon-bar></span>
+				<span class = "icon-bar></span>
+				<span class = "icon-bar></span>
+				<span class = "icon-bar></span>
+			</button>
+
+				<ul class = "nav navbar-nav navbar-right">
+
+					<li class = "active"><a href = "http://wsfan.github.io/4loop/">Home</a></li>
+					<li class = "dropdown">
+
+							<a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">About Us <b class = "caret"></b></a>
+
+							<ul class = "dropdown-menu">
+									<li><a href = "http://wsfan.github.io/4loop/about.html">Who we are</a></li>	
+									<li><a href = "http://wsfan.github.io/4loop/contact.html">Contact Us</a></li>	
+							</ul>
+					</li>
+					<li><a href = "http://wsfan.github.io/4loop/blogcollect.html"> Blog Posts </a> </li>
+					<li class = "dropdown">
+
+							<a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">Projects <b class = "caret"></b></a>
+
+							<ul class = "dropdown-menu">
+									<li><a href = "http://wsfan.github.io/4loop/project1.html">Project 1</a></li>	
+									<li><a href = "http://wsfan.github.io/4loop/project2.html">Project 2</a></li>	
+							</ul>
+					</li>		
+					<!-- Make a tutorial drop down menu-->
+					<li><a href = "http://wsfan.github.io/4loop/tutorials.html">Tutorials</a></li>
+			</ul>
+	
+	</div>
+	</div>
+
+<div class = "container">
+
+		<div class = "jumbotron">
+			<center><h1> Welcome to 4Loop</h1>
+			<p>Check out our latest blog entries!</p>
+			<a href = "http://wsfan.github.io/4loop/blogcollect.html" class = "btn - btn-success">Go to blog pages</a></center>
+	</div>
+<div class = "container"
+	
+	<div class = "row">
+
+			<div class = "col-md-6">
+
+				<h3>4Loop is a group of 4 students who are learning web development from scratch.</a></h3>
+				<p>They are being taught on the 7-week intensive <a href = "http://foundersandcoders.org/">Founders & Coders course.</a></p>   
+
+			</div>
+
+
+			<div class = "col-md-6">
+
+				<h3>Use this website to keep up to date with the team's work.</h3>
+				<p>Each week they will update this website with the web development projects they have done. Stay tuned using the <a href = "http://wsfan.github.io/4loop/blogcollect.html">blog section of this website.</p>   
+
+			</div>
+
+	</div>
+
+</div)
 </div>
 
+
+
+
+<!--	INCORRECT LINK  <script src="http//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+
+	<script src = "http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="http://github.io/wsfan/4Loop/bootstrap/js/bootstrap.js"></script>		
+	<script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	</body>
+
+
+</html>
