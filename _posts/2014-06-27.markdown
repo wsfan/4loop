@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Week 2, Day 5"
+date:   2014-06-27 12:02:00
+categories:
+---
+
+
+Wan:
+- “The course is good - a lot harder than I thought it would be. Fun working on projects that result in a finished app. Team has started to grow on me (starting to just accept my fate…). There is a lot more of a trial and error approach than I expected but that has been great.”
+
+Ross:
+- “Enjoyable, have a great group, up to his expectations, meet his high standards. Very steep learning curve. Now let me eat my biscuit”
+
+Michael:
+
+- “Coding is much more about trial and error and finding out what you need to do than know what you need to do from the get – go. Much more leeway to take on big on project and complete them to a high-=standard even if knowledge at the start of project is not adequate.”
+
+Piri:
+
+- “Coding has been a lot of fun but has definitely been hard-work and the learning curve has been very steep. The course is starting to pick up now and while we are all working and learning pretty hard, it has definitely been an enjoyable experience”.
