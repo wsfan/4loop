@@ -5,4 +5,4 @@ date:   2014-06-25 12:02:00
 categories:
 ---
 
-Two of 4loop's team were not avaliable to come in today so Ross and Piri (aka Team 2loop) were left by themselves. But the fruit of our previous labour was finally showing itself and after all the intense research, 2/4loop created the main shell of the web app.
+Two of 4loop's team were not avaliable to come in today so Ross and Piri (aka Team 2loop) were left by themselves. But the fruits of our labour were finally showing themselves as, after all the intense research, (2/)4loop managed to create the main shell of the web app with some data drawn from The Guardian.
