@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 3, Day 4"
-date:   2014-07-02 12:02:00
+date:   2014-07-03 12:02:00
 categories:
 ---
 
