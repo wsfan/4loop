@@ -5,4 +5,4 @@ date:   2014-06-24 12:02:00
 categories:
 ---
 
-More researching and frustration. All our eyes were left sore from the hours of research but by the end of the day we all felt like we had learnt what we needed to do in the following days.
+We realised that to complete our task, we would have to become familar with some <a href="http://jqueryui.com/"jQuery UI</a> Javascript language and <a href="http://json-p.org/">JSONP</a>. The task was getting harder by the minute... the data extracted  from The Guardian would be in a JSON format and then we would have to manipulate that through Javascript to deliver it to our app.
