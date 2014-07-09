@@ -5,5 +5,5 @@ date:   2014-06-20 12:02:00
 categories:
 ---
 
-We finally finished our website with everything up and running (well almost everything!). A week's load of work has culminated with Ross' presentation to the rest of the group of our completed blog.
+We finally finished our website with everything up and running (well almost everything!). A week's load of work has culminated with Ross' presentation to the rest of the group of our completed blog. It has been a very tiring yet rewardining first week of Founders & Coders.
 
