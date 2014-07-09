@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 3, Day 4"
+date:   2014-07-02 12:02:00
+categories:
+---
+
+The Node School train continues with its relentless pace. Last yesterday we have been working through the Node School lessons.

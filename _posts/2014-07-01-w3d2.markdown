@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 3, Day 2"
+date:   2014-07-01 12:02:00
+categories:
+---
+
+We started <a href="http://nodeschool.io">learnyounode</a> today as all of the teams get their heads around Node.js — a fearsome task when your Javascript is a bit shaky to start with. 
