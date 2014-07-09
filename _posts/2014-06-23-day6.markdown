@@ -7,7 +7,7 @@ categories:
 
 A new week meant a new challenge. We had to build a web app that took data from The Guardian API. Indeed this challenge is used to interview potential new hires at the newspaper.
 
-excerpt_separator
+{{excerpt_separator}}
 
 We started out ambitously watching and reading as many tutorials and web lessons as we could to get a grip of what we needed to do. It was a hectic day of learning and swearing. We set out a plan to implement over the following days. Going to be a busy week.
 
