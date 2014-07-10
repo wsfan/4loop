@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog Posts
+title: Blog Posts by Week
 ---
 
 <div class = "container">
@@ -10,17 +10,18 @@ title: Blog Posts
   <h3>Blog Posts by Week</h3>
 
   <a href="blogcollect.html">Back to show all</a>
+  <br>
   <ul class="posts">
 
 {% for category in site.categories %}
-  {{ category | first }}
-    <ul>
+  <b>{{ category | first }}</b>
+  <br>
     {% for posts in category %}
       {% for post in posts %}
         <li><a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></li>
       {% endfor %}
     {% endfor %}
-    </ul>
+    
 {% endfor %}
 
   </font>
