@@ -13,15 +13,15 @@ title: Blog Posts
   <ul class="posts">
 
 {% for category in site.categories %}
-  <a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
+  {{ category | first }}
+    <!-- <ul> -->
     {% for posts in category %}
       {% for post in posts %}
         <li><a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></li>
       {% endfor %}
     {% endfor %}
-    </ul>
-{% endfor %}
+    <!-- </ul> -->
+{% endfor %} 
 
   </font>
   </ul>
