@@ -19,10 +19,9 @@ title: Blog Posts by Week
     {% for posts in category %}
       {% for post in posts %}
         <li><a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></li>
-        <Br>
       {% endfor %}
     {% endfor %}
-    
+    <br>
 {% endfor %}
 
   </font>
