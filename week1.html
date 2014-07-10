@@ -9,7 +9,9 @@ title: Blog Posts by Week
 
   <h3>Blog Posts by Week</h3>
 
-      <a href = "blogcollect.html" class = "btn - btn-success">Back to all posts</a>
+      <a href = "blogcollect.html" class = "btn - btn-success">Back to show all/a>
+
+  <a href="blogcollect.html">Back to show all</a>
   <br>
   <ul class="posts">
 
@@ -17,7 +19,7 @@ title: Blog Posts by Week
   <b>{{ category | first }}</b>
   <br>
     {% for posts in category %}
-
+      {% for post in posts %}
         <li><a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></li>
       {% endfor %}
     {% endfor %}
