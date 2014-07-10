@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 3, Day 3"
+date:   2014-07-02 12:02:00
+categories: Week-3
+---
+
+We are still at Node School. <a href="http://uk.linkedin.com/in/dsofer">Dan</a>, our teacher, has enforced a tough 1 lesson per hour procedure. That is to say, we have one hour to complete each Node School lesson and then we have to present our work. Considering it took us three to four hours per lesson at the beginning, this is a touch challenge.
