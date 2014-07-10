@@ -14,7 +14,7 @@ title: Blog Posts by Week
   <ul class="posts">
 
 {% for category in site.categories %}
-  <b>{{ category | first }}</b>
+  <b>{{ category }}</b>
   <br>
     {% for posts in category %}
       {% for post in posts %}
