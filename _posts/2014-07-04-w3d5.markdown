@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 3, Day 5"
 date:   2014-07-04 12:02:00
-categories:
+categories: Week-3
 ---
 
 Today we finished our Node School lessons and have, on the whole, successful completed 12 Node challenges. Over 5 days we've been writing Node.js, creating web servers, manipulating data and on the final day, we created a time server.

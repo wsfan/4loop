@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 1, Day 1"
 date:   2014-06-16 12:02:00
-categories: w1
+categories: Week-1
 ---
 
 We arrived bright-eyed and bushy-tailed to the <a href="http://camdencollective.co.uk/">Collective</a> in Camden for the beginning of our coding course. All sixteen participants were split into teams of four. Our team, which we named "4Loop" (that's a Javascript reference), is made up of four guys; Michael, Piri, Ross and Wan.

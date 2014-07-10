@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 1, Day 3"
 date:   2014-06-18 12:02:00
-categories:
+categories: Week-1
 ---
 
 After presenting our website yesterday, we agreed that we should have <a href="http://jekyllrb.com/">Jekyll</a> running on our site in order to 'comply' with the class syllabus. After some false starts, we managed to install Jekyll *and* <a href="http://getbootstrap.com/">Bootstrap</a>. However, the website was not free from problems as none of our posts appeared and our links did not work.

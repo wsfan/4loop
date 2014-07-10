@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 1, Day 4"
 date:   2014-06-19 12:02:00
-categories:
+categories: Week-1
 ---
 
 We had a very productive day today with many quantifiable results: we created a landing page and all our blog posts function properly (finally!). We added buttons to our website and introduced a Bootstrap header.
