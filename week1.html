@@ -12,12 +12,17 @@ title: Blog Posts
   <a href="week1.html">See blogs from Week 1</a>
   <ul class="posts">
 
-{% for post in site.posts %}
-    {% if post.categories contains '4loop/w1' %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  </li>
 {% endfor %}
-</ul>
 
   </font>
   </ul>
