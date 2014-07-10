@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 2, Day 2"
 date:   2014-06-24 12:02:00
-categories:
+categories: Week-2
 ---
 
 We realised that to complete our task, we would have to become familar with some <a href="http://jqueryui.com/">jQuery UI</a> Javascript language and <a href="http://json-p.org/">JSONP</a>. The task was getting harder by the minute... the data extracted  from The Guardian would be in JSON format and then we would have to manipulate that through Javascript to deliver it to our app.
