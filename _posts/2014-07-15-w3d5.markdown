@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Week 4, Day 1"
-date:   2014-07-15 12:02:00
-categories: Week-3
----
-
-This week we are going to be conducting a challenge set by Robin of Kiln.it who create some incredible maps using Data Driven Document (D3) library <a href="http://www.kiln.it">Kiln.it</a>. Our task is to make a map of the world showing the cost price of Cocaine at street and wholesale, the values of which will change the colour the area of the map each country occupies turne.
