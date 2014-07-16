@@ -14,18 +14,16 @@ title: Blog Posts by Week
   
 
 {% for category in site.categories %}
-  <ol class="posts">
+  <ul class="posts">
   <b>{{ category | first }}</b>
     {% for posts in category %}
+	<br>
       {% for post in posts %}
-        <li><a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></li>
+        <li><a href="{{ post.url | <!--remove_first:'/'-->}}">{{ post.title }}</a></li>
       {% endfor %}
     {% endfor %}
 {% endfor %}
-
-
-  
-  </ol>
+	</ul>
   </div>
 </div>
 </div>
