@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 3, Day 1"
 date:   2014-06-30 12:02:00
-categories:
+categories: Week-3
 ---
 
 Monday of Week 3 is the beginning of a two-week project. Using <a href="http://nodejs.org">Node.js</a> we are going to create our own server that pulls data from the Twitter API and then presents tweeted images on a gallery page. We are going to be learning the Node language which is Javascript for servers. It's complicated as it sounds.
