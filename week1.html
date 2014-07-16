@@ -11,11 +11,12 @@ title: Blog Posts by Week
 
       <a href = "blogcollect.html" class = "btn - btn-success">Back to show all</a>
   <br>
-  <ol class="posts">
+  
 
 {% for category in site.categories %}
   <b>{{ category | first }}</b>
     {% for posts in category %}
+	<ol class="posts">
       {% for post in posts %}
         <li><a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a></li>
       {% endfor %}
