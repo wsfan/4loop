@@ -12,9 +12,8 @@ title: Blog Posts by Week
       <a href = "blogcollect.html" class = "btn - btn-success">Back to show all</a>
   <br>
   
-
+<ol class="posts">
 {% for category in site.categories %}
-  <ol class="posts">
   <b>{{ category | first }}</b>
     {% for posts in category %}
       {% for post in posts %}
