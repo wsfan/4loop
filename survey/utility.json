@@ -87,20 +87,20 @@
 		"name": " Nodeschool",
 		"children": [
 
-			{"name": "Nodeschool", "size":100000},
-			{"name": "Nodeschool", "size":10},
-			{"name": "Nodeschool", "size":10},
-			{"name": "Nodeschool", "size":100000},
-			{"name": "Nodeschool", "size":100},
-			{"name": "Nodeschool", "size":1000},
-			{"name": "Nodeschool", "size":100000},
-			{"name": "Nodeschool", "size":1000},
-			{"name": "Nodeschool", "size":100000},
-			{"name": "Nodeschool", "size":1000},
-			{"name": "Nodeschool", "size":10},
-			{"name": "Nodeschool", "size":100},
-			{"name": "Nodeschool", "size":1000},
-			{"name": "Nodeschool", "size":100000}
+			{"name": "Node", "size":100000},
+			{"name": "Node", "size":10},
+			{"name": "Node", "size":10},
+			{"name": "Node", "size":100000},
+			{"name": "Node", "size":100},
+			{"name": "Node", "size":1000},
+			{"name": "Node", "size":100000},
+			{"name": "Node", "size":1000},
+			{"name": "Node", "size":100000},
+			{"name": "Node", "size":1000},
+			{"name": "Node", "size":10},
+			{"name": "Node", "size":100},
+			{"name": "Node", "size":1000},
+			{"name": "Node", "size":100000}
 		]
 	}
 	]	
