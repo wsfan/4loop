@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "w6d1"
+title:  "Week 6, Day 1"
 date:   2014-07-21 12:02:00
 categories: week-6
 ---
