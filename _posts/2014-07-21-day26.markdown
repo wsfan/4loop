@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 26"
 date:   2014-07-21 12:02:00
-categories:
+categories: week-6
 ---
 
 Today has been a very busy day. Dan has ensured that there is a lot on the agenda this week, both in terms of learning and in terms of our final projects. The team has decided to build an app that is both very interesting and technically challenging. 
