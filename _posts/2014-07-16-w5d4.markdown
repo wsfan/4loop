@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 5, Day 4"
+date:   2014-07-18 12:02:00
+categories: Week-5
+---
+
+A Eureka moment occurred late today! finally, finally we managed to create an object that matched alpha-2 codes to country colours. A day of triumph for team 4Loop which couldn't have come sooner given the deadline for presenting a final project tomorrow! 

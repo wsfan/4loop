@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 5, Day 5"
+date:   2014-07-19 12:02:00
+categories: Week-5
+---
+
+The finish line. We had our final project maps all coloured tooltip full of information. Our colour combinations looked exemplary. This task was particularly enjoyable as it allowed us to get some knowledge of a fantastic library (thanks to <a href="http://bost.ocks.org/mike/">Mike Bostock</a>). Stay tuned for the project results...

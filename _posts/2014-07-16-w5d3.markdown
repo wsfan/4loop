@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 5, Day 3"
+date:   2014-07-17 12:02:00
+categories: Week-5
+---
+
+Day 3 brought more success. We managed to get the map displaying so our world began to take shape. We were still struggling on producing colours but were moving to a clearer idea of why and how the D3 library worked.
