@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 6, Day 2"
+date:   2014-07-22 12:02:00
+categories: Week-6
+---
+
+Today we began our project in earnest, inevitably encountering issues with AJAX calls and swipe functions not working properly. Piri had gone off to plan how to make his first billion and Wan was skiving off at the Barbican (ok so he was graduating). 
+
+This left Michael and Ross to plow on and show their mettle. Which stood firm with the help of doughnuts and pizza. The plans are now all in place and our app is designed and the architecture is in place. Lets see if we can get it done in time!
+
+Lastly congratulations must go to Wan for graduating!
