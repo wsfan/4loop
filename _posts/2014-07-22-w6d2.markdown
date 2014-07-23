@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 6, Day 2"
+date:   2014-07-22 05:02:00 -07:00
+categories: Week-6
+---
+
+The team seems to have a good idea of where we are headed since we spent most of yesterday brainstorming and setting out specific tasks to do.
+
+We are going to first nail the user interface and then work on the more complicated back end. 
+
+Piri is working on a sliding menu, Ross is working on displaying data, Michale is working on swipe functionality and Wan has decided to be selfish and took the day off to attend his uni graduation ceremony.
