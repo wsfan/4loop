@@ -7,28 +7,22 @@ title: Blog Posts by Week
   <div class = "row">
     <div class = "col-md-6">
 
-      <h3>Blog Posts by Week</h3>
+      <h3>Blog Posts by Week?</h3>
 
         <a href = "blog.html" class = "btn - btn-success">Back to show all</a>
-      
-        <br>
-  
-        <ol class="posts">
-            {% for category in site.categories %}   
-             <b>{{ category | first }}</b>  
-             <br> 
-  		        <ul class="posts"> 		      
-                {% for posts in category %}  		    
-                  {% for post in posts %}        
+                  {% for category in site.categories %}
+            {% assign catname = category | first %}
+             <b>{{ catname }}</b>
+             <br>
+                <ul class="posts">
+                {% for post in site.categories[catname] %}
                     <li>
-                     <a href="{{ post.url | <!--remove_first:'/'-->}}">{{ post.title }} stuff </a>
+                     <a href="{{ post.url |
+<!--remove_first:'/'-->}}">{{ post.title }} stuff </a>
                     </li>
-                  {% endfor %}
                 {% endfor %}
               </ul>
             {% endfor %}
-	        
-        </ol>
 
   </div>
 </div>
