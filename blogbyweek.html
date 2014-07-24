@@ -17,13 +17,13 @@ title: Blog Posts by Week
                 <ul class="posts">
                 {% for post in site.categories[catname] %}
                     <li>
-                     <a href="{{ post.url |
-<!--remove_first:'/'-->}}">{{ post.title }} stuff </a>
+                     <a href="{{ post.url | <!--remove_first:'/'-->}}"> {{ post.title }}  </a>
                     </li>
                 {% endfor %}
               </ul>
             {% endfor %}
 
-  </div>
+    </div>
+  </div>
 </div>
-</div>
+
