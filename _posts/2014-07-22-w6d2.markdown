@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Week 6, Day 2"
+<<<<<<< HEAD
 date:   2014-07-22 12:02:00
 categories: Week-6
 ---
@@ -10,3 +11,14 @@ Today we began our project in earnest, inevitably encountering issues with AJAX 
 This left Michael and Ross to plow on and show their mettle. Which stood firm with the help of doughnuts and pizza. The plans are now all in place and our app is designed and the architecture is in place. Lets see if we can get it done in time!
 
 Lastly congratulations must go to Wan for graduating!
+=======
+date:   2014-07-22 05:02:00 -07:00
+categories: Week-6
+---
+
+The team seems to have a good idea of where we are headed since we spent most of yesterday brainstorming and setting out specific tasks to do.
+
+We are going to first nail the user interface and then work on the more complicated back end. 
+
+Piri is working on a sliding menu, Ross is working on displaying data, Michale is working on swipe functionality and Wan has decided to be selfish and took the day off to attend his uni graduation ceremony.
+>>>>>>> a7a287d808277cc6fd977acd92bfbd3af409e878

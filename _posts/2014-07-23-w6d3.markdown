@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 6, Day 3"
+date:   2014-07-22 05:02:00 -07:00
+categories: Week-6
+---
+
+Again, the team has had a clear idea of what each person needs to work on so it has been a straightforward day of hard work.
+
+The tasks have remained the same for now, except Wan has decided to rejoin us after graduating. He is now catching up on the Mongodb tutorial that we were working on in his absence. 
+
+Michael, Ross and Piri are still working on the same tasks as yesterday.

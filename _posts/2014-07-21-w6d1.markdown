@@ -7,6 +7,8 @@ categories: Week-6
 
 Today has been a very busy day. Dan has ensured that there is a lot on the agenda this week, both in terms of learning and in terms of our final projects. The team has decided to build an app that is both very interesting and technically challenging. 
 
+Essentially a tinder-type app for local bars. Local bars that are open will presented in a disply similar to tinder.
+
 So today we divided out time between working on tutorials for important and interesting new libraries and planning out the work and direction for our app.
 
 It is coming towards the end of the day and it is safe to say the team feels somewhat drained but satisfied with the day's work.

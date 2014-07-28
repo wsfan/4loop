@@ -1,5 +1,5 @@
 name: 4Loop
-baseurl: "http://wsfan.github.io/4loop"
-url: "http://wsfan.github.io/4loop"
+#baseurl: "http://wsfan.github.io/4loop"
+#url: "http://wsfan.github.io/4loop"
 markdown: kramdown
-pygments: true
+highlighter: true
