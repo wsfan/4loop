@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 7, Day 3"
+date:   2014-07-30 05:02:00 -07:00
+categories: Week-7
+---
+
+The team has essentially been continuing work on the tasks they started at the beginning of the week.
+
+Wan has leant a lot about phonegap and has even dummied up a few test apps. He also pointed people towards some tutorials he found helpful and is now the go-to guy on anything phonegap.
+
+Piri has created a couple of different sliding menus, initially in JQuery but once we decided that the card swipe functionality was going to be done with Ionic Framework, it made sense to only use one library (to improve performance). So he created a new sliding menu using Ionic Framework but has had trouble merging this menu with the swipable cards that have already been created and is now working on that.
+
+Ross and Mike are still working on handling the Google Data. 
