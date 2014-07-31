@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Week X, Day X"
-date:   2014-07-21 12:02:00
-categories: Week-1
----
-
-Test
