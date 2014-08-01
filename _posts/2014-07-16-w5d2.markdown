@@ -5,4 +5,4 @@ date:   2014-07-16 12:02:00
 categories: Week-5
 ---
 
-Today has been a frustrating day. Michael and Ross have been console.slogging() away at the data parsing in an attempt to create a colour scale. Today they learnt that using global variables within JSON files is risky as the associated syntax is very strict. Wan and Piri meanwhile had more success in making the map look snazzy adding highlighting and responsive borders but using mouse-over function. In a show of team unity Michael brought in ice-creams which was in contrast to the cracking under stress of team GetMyCodeOn. Which lead to Nafisa abandoning them to sit outside on her own.
+Today has been a frustrating day. Michael and Ross have been console.slogging() away at the data parsing in an attempt to create a colour scale. Today they learnt that using global variables within JSON files is risky as the associated syntax is very strict. Wan and Piri meanwhile had more success in making the map look snazzy adding highlighting and responsive borders but using mouse-over function. 
