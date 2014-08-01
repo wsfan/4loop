@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 7, Day 2"
+date:   2014-07-29 05:02:00 -07:00
+categories: Week-7
+---
+
+Another busy busy day at F&C.
+
+Team members are continuing work on the tasks they started yesterday.
+
+Piri has managed to find a sidemenu using the Jquery library and Michael has found swipe cards using Ionic Framework
