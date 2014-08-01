@@ -5,5 +5,5 @@ date:   2014-06-27 12:02:00
 categories: Week-2
 ---
 
-After Stephan's advice, we made the text easier to read, cleaned up our code, and improved the look of the web app itself. On the final day of the project, the web app worked and pulled in the top 10 headlines from Guardian under three categories: news, football and travel.
+After Stephan's advice, we made the text easier to read, cleaned up our code, and improved the look of the web app itself. On the final day of the project, the web app worked and pulled in the top 10 headlines from <a href="www.theguardian.com">The Guardian</a> under three categories: news, football and travel.
 

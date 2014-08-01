@@ -5,4 +5,4 @@ date:   2014-06-26 12:02:00
 categories: Week-2
 ---
 
-Today <a href="https://twitter.com/stephanfowler">Stephan Fowler</a> from The Guardian came in the early evening to review each team's code and provide constructive criticism so that we could make the apps better. Stephan also gave us some more general tips on making our code more professional and robust.
+Today we were very grateful to <a href="https://twitter.com/stephanfowler">Stephan Fowler</a> from The Guardian who visited us in the early evening to review each team's code and provide constructive criticism. Stephan also gave us some advice on making our code more professional and robust.

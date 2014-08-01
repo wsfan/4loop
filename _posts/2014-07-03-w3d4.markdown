@@ -5,4 +5,4 @@ date:   2014-07-03 12:02:00
 categories: Week-3
 ---
 
-The Node School train continues with its relentless pace. Last yesterday we have been working through the Node School lessons.
+The Node School train continues with its relentless pace. Like yesterday, we have been working our way through the Node School lessons.
