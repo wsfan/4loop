@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 7, Day 1"
+date:   2014-07-28 05:02:00 -07:00
+categories: Week-7
+---
+
+Apologies for the gap in posts. It has been hectic here at F&C!
+
+The team has had plenty to do today. Ross has been working on the backend involving messing around with the data that Google provides, the format it provides it in and if/how we need to transform it to make it usable for our application.
+
+Piri has been researching how to include a side menu for the app and its navigation.
+
+Wan has been researching phonegap to learn what we have to do once we have finally finished the web app to make it usabe as a phone app.
