@@ -12,3 +12,5 @@ The team has had plenty to do today. Ross has been working on the backend involv
 Piri has been researching how to include a side menu for the app and its navigation.
 
 Wan has been researching phonegap to learn what we have to do once we have finally finished the web app to make it usabe as a phone app.
+
+Michael has been working on getting a template for the swipe functionality.
