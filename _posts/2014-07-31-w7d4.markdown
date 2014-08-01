@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 7, Day 4"
-date:   2014-07-31 05:02:00 -07:00
+date:   2014-08-01 05:02:00 -07:00
 categories: Week-7
 ---
 T minus 1 day until presentation.
