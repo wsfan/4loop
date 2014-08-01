@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Week 7, Day 4"
+date:   2014-07-31 05:02:00 -07:00
+categories: Week-7
+---
+T minus 1 day until presentation.
+
+We have a webapp that works in the browser that shows cards with info from local bars using Google data.
+
+We have also worked on emulation so that we can eventually make this a phone app. Emulation has proved quite fiddly in that many packages needed to be downloaded and decisions needed to be made about Android or ios.
+
+By the end of the day we had an emulation of the webapp in ios.
